@@ -7,4 +7,4 @@ def sushu(x,y):
 				break
 		if n == 0:
 			print(i)
-sushu(100,201)		
+sushu(100,200)		
